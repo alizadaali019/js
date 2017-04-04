@@ -1,0 +1,16 @@
+2.baglanmalardan funksiya yazarken istifade edilir. funksiyanin baglanma yerini muyyen edir.
+baglanmalar vasitesi ile funksiyalari ic ice yazmaq olur.
+4.deyisen teyin etmedikde not defined qaytarir.
+5.== teyin edilen deyisenin novunu yoxlayir ===ise hem nov hemde tipini yoxlayir.
+6.boolean,null,undefined,number,string,symbol,object.
+7."1"+2+3=123 bu netice ona gore olurki "1" buradaki bir string kimi qebul edilir ve ondan sonraki + emeliyyati bitisdirici funksiya dawiyir.
+1+2+"3"=33 burada ise 1+2 number kimi qebul edilir ve toplama emliyati yerine yetrilir "3"bu ise string oldugu ucun yan-yana getirir.
+8.Unobtrusive js html de jsde aid hec bir sey olmayan js dir.
+9.undefined odurki herhansi bir funksiyada bir deyisen var lakin teyin olunmayib null ise umumiyetle hec ne yoxdur demekdir.
+10.js if,else,else if switch sertlerini destekleyir.
+11.NaN-not a number demekdeir NaN-a hec ne yazmag olmur ve qurasdirmag olmur.
+12.this vasitesi ile hansi obyektin uzerinde emeliyyat apaririqsa o obyekti isledir.ve eyni funksiyada eyni adli obyekti isletmekde olur.
+13.undefined teyin edib cagiririqsa undefined verir eger not defined verirse demeli hec teyin bele olunmayib.
+
+
+
