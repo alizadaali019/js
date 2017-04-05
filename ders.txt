@@ -27,6 +27,9 @@ daha murekkebdir
 isdediyimiz her prablemi hell etmir
 19.cox nadir hallarda ist olunur.
 20.bir sey tapdim amma catmadi!!!
+21.o demekdir ki miraslarin xususiyyetlerinden istifade etmek evezine bize lazim olan daha kicik funksiyalardan istifade etmeliyik.
+22.2yonlu data axisinda model ve goruntu arasinda her zaman data axini olur,bir yonlude ise ancaq modelden goruntuye axin olur.
+23.en boyuk avantaji suretli olmasi DOS qoruma kimi tehlukesizlikliyi,dezavantajlari ise yazdigimiz praqram cox isledikce olan melumatlarin qarisa bilmesidir.
 24. assicrhon p/l o dur ki hansisa bir lahiyede olan bir b uttona click ederken muyyen functionlar yaziriq ve bunlarin hamisinin eyni anda islemesi isdeyirik bu isleme prinsipi asichrondur.functionlar bir-birini gozdemeden isdeyir.
 
 
