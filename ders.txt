@@ -1,4 +1,7 @@
+1.her bir obyektin mirasi var.bu miraslar abyektin malik oldugu butun metod ve xususiyyetleri alir.obyekte sonradan verilen xususiyyetleride alir
 2.baglanmalardan funksiya yazarken istifade edilir. funksiyanin baglanma yerini muyyen edir.
+3.x === "object" eger bu sekilde yoxlansa false cixacaq cunki birinci obyekt yaradiriq ve muqaise ederken yaratdigimiz obyekti obyekt kimi goturur."object" bu yazini ise string olaraq qebul edir ona gore netice false olur.
+bu beraberliyin dogru olmasi ucun typeof dan istifade etmeliyik typeof yaratdigimiz obyektin ne oldugun tapir ve muqaise eder.
 baglanmalar vasitesi ile funksiyalari ic ice yazmaq olur.
 4.deyisen teyin etmedikde not defined qaytarir.
 5.== teyin edilen deyisenin novunu yoxlayir ===ise hem nov hemde tipini yoxlayir.
@@ -11,6 +14,19 @@ baglanmalar vasitesi ile funksiyalari ic ice yazmaq olur.
 11.NaN-not a number demekdeir NaN-a hec ne yazmag olmur ve qurasdirmag olmur.
 12.this vasitesi ile hansi obyektin uzerinde emeliyyat apaririqsa o obyekti isledir.ve eyni funksiyada eyni adli obyekti isletmekde olur.
 13.undefined teyin edib cagiririqsa undefined verir eger not defined verirse demeli hec teyin bele olunmayib.
-
+14.hostiq mentiqi JS isleme mentiqi ile eynidir.buna misal deyiseni funksiyadan evvel ve ya sora yazdiqda onu oxuya bilmesini gosdere bilerik.
+16.funksiyonal proqramlasdirmanin esasini funksiyalar teskil edir.musbet ceheti tekrar kodlari aradan qaldirir menfi terefi se proqramin islemesini yavasladir.
+17.classic inheritance mentiqi class mentiqine esaslanir . OOP dillerdeki inhritance mentiqi JS deki inheritance -dan ferqlenir , cunki javascriptde class anlayiwi ferqlidir. javascriptde ierarchic inheritance qurulusu var. Inheritance prototype chain uzre yonelir.
+18.oopnin musbet cehetleri
+hersey obyekt oldugu ucun asanliq yaranir
+objectlerin propertileri metodlari oldugu ucun bunlardan istifade kod tekrarinin qarsisini alir;
+debug daha rahatdir
+menfi ceheti
+daha cox yaddasda yer tutur
+daha murekkebdir
+isdediyimiz her prablemi hell etmir
+19.cox nadir hallarda ist olunur.
+20.bir sey tapdim amma catmadi!!!
+24. assicrhon p/l o dur ki hansisa bir lahiyede olan bir b uttona click ederken muyyen functionlar yaziriq ve bunlarin hamisinin eyni anda islemesi isdeyirik bu isleme prinsipi asichrondur.functionlar bir-birini gozdemeden isdeyir.
 
 
